@@ -21,8 +21,8 @@
     <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
     <div class="resume">
       <div class="resume_left">
-        <div class="resume_profile"> <img src="file:///C:/Users/ASUS/Desktop/Resume000/images/S__42254338.jpg"
-            alt="profile_pic"> </div>
+        <div class="resume_profile"> <img src="images/pic.png" alt="profile_pic">
+        </div>
         <br>
         <div class="resume_content">
           <div class="resume_item resume_info">
@@ -98,8 +98,8 @@
         </div>
       </div>
       <div class="resume_right">
-        <h1 style="text-align: center;"><br>
-          <span class="material-symbols-outlined"> </span></h1>
+        <p style="text-align: center; margin-left: 480px;"><b>640510023</b><br>
+          <span class="material-symbols-outlined"> </span></p>
         <h1 style="text-align: center;"><span class="material-symbols-outlined">person
             </span>ดลยา จูเกต</h1>
         <br>
